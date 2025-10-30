@@ -1,0 +1,1 @@
+﻿MonitorHelper.ListMonitorsAndTheirEDIDs();
