@@ -1,7 +1,7 @@
 ﻿using Microsoft.Win32;
 using System.Runtime.InteropServices;
 
-public static class MonitorHelper {
+public static partial class MonitorHelper {
     // MONITORINFOEX для получения имени устройства (szDevice)
     [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Auto)]
     public struct MONITORINFOEX {
